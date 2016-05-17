@@ -2,7 +2,7 @@
  * react-native-swiper
  * @author leecade<leecade@163.com>
  */
-import React, {
+import {
   StyleSheet,
   Text,
   View,
@@ -12,6 +12,7 @@ import React, {
   ViewPagerAndroid,
   Platform
 } from 'react-native'
+import React from 'react';
 
 // Using bare setTimeout, setInterval, setImmediate
 // and requestAnimationFrame calls is very dangerous
